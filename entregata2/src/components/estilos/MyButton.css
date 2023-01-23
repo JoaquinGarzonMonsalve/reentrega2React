@@ -1,0 +1,19 @@
+
+
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+    font-size: 19px;
+    color: rgb(13, 37, 252);
+    z-index: 1;
+   }
+   
+   
+   
+   .button:hover {
+    color: #ffffff;
+    border: 1px solid #39bda7;
+   }
+  

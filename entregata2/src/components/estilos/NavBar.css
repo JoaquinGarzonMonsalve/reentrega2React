@@ -1,0 +1,34 @@
+
+.nav-bg{
+	background-color: #f3f7f3;
+	min-width: 70%;
+	margin-top: 35px
+}
+
+.nav-flex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	justify-items: flex-end;
+
+	
+}
+
+.navbar-nav{
+	display: flex;
+    flex-direction: row;	
+	justify-content: space-evenly;
+	justify-items: flex-end;
+}
+
+.link{
+	font-size: 20px;
+    font-weight: 600;
+	justify-content: end;
+	width: 100%;
+	padding: 0 25px;
+	color: blue;
+}
+
+
+
